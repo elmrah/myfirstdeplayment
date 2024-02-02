@@ -1,4 +1,5 @@
 <p>Reach for a quotation!!</p>
+<hr>
 <div>
     <form action="/action_page.php">
       <label for="fname">First Name</label>
